@@ -1,0 +1,9 @@
+# robots.txt for TicketManager
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.ticketmanager.com/sitemap.xml
+
+# Crawl-delay (optional, adjust as needed)
+Crawl-delay: 1
